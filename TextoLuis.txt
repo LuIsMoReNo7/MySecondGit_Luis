@@ -2,6 +2,7 @@ HTML es un markup language, lo que significa que está escrito con códigos que 
  En otras palabras, el texto en una página web está «marcado» con estos códigos para dar instrucciones al navegador web sobre cómo mostrar el texto.
 
 
+
 La estructura básica de una página web es la siguiente:
 
 <html>
@@ -13,3 +14,10 @@ La estructura básica de una página web es la siguiente:
 </body>
 
 </html>
+
+
+
+Para qué sirve HTML?
+Cuando aprendas lo básico del HTML podrás incursionar en otros ámbitos del mismo tales como generar tablas, agregar links externos, jugar con los códigos y añadirle 
+otros lenguajes de programación para agregar dinamismo a tu página. De igual modo, el mundo de las etiquetas en HTML es un mar de opciones haciendo tu trabajo más profesional y visualmente exitoso. 
+HTML sirve exactamente para hacer de tu página web un proyecto con estilo propio, podrás colocar imágenes, textos, videos y todo lo que necesites mediante sus etiquetas
